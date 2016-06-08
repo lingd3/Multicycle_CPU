@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="246" delta="old" ><arg fmt="%s" index="1">&quot;shift.v&quot; line 26 </arg>Reference to <arg fmt="%s" index="2">vector reg &apos;DataOut&apos;</arg> is not a legal net lvalue
+</msg>
+
+<msg type="error" file="HDLCompilers" num="53" delta="old" ><arg fmt="%s" index="1">&quot;shift.v&quot; line 26 </arg>Illegal left hand side of continuous assign
+</msg>
+
+</messages>
+

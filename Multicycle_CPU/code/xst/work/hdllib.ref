@@ -1,0 +1,14 @@
+MO CU NULL CU.v vlg24/_c_u.bin 1464078603
+MO CPU NULL CPU.v vlg70/_c_p_u.bin 1464078603
+MO select NULL select.v vlg60/select.bin 1464078603
+MO PC NULL PC.v vlg53/_p_c.bin 1464078603
+MO DataMemory NULL DataMemory.v vlg2B/_data_memory.bin 1464078603
+MO Write_Reg NULL Write_Reg.v vlg10/_write___reg.bin 1464078603
+MO instructionMemory NULL instructionMemory.v vlg03/instruction_memory.bin 1464078603
+MO register_file NULL register_file.v vlg7C/register__file.bin 1464078603
+MO combine NULL combine.v vlg39/combine.bin 1464078603
+MO shift NULL shift.v vlg3E/shift.bin 1464078603
+MO temp_register NULL temp_register.v vlg42/temp__register.bin 1464078603
+MO test NULL test.v vlg34/test.bin 1464078603
+MO ALU NULL ALU.v vlg2A/_a_l_u.bin 1464078603
+MO Immediate_Extend NULL Immediate_Extend.v vlg62/_immediate___extend.bin 1464078603

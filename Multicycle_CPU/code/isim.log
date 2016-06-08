@@ -1,0 +1,23 @@
+ISim log file
+Running: C:\Users\gd\Desktop\Multicycle_CPU\test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/gd/Desktop/Multicycle_CPU/test_isim_beh.wdb 
+ISim P.49d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING:  For instance uut/my_ALUPlus4/, width 3 of formal port Operation is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_ALUPlusPC/, width 3 of formal port Operation is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_ADR/, width 1 of formal port WE is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_BDR/, width 1 of formal port WE is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_ALUM2DR/, width 1 of formal port WE is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_ALUout/, width 1 of formal port WE is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_writeRegMux/, width 5 of formal port DataA is not equal to width 32 of actual constant.
+WARNING:  For instance uut/my_writeRegMux/, width 5 of formal port DataD is not equal to width 32 of actual constant.
+WARNING: File "C:/Users/gd/Desktop/Multicycle_CPU/CPU.v" Line 58.  For instance uut/my_writeRegMux/, width 5 of formal port DataOut is not equal to width 6 of actual signal writeReg.
+WARNING: File "C:/Users/gd/Desktop/Multicycle_CPU/CPU.v" Line 58.  For instance uut/my_register_file/, width 5 of formal port WriteReg is not equal to width 6 of actual signal writeReg.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
